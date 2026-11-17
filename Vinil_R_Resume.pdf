@@ -1,124 +1,1279 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 9 0 R /F5 10 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ]
+/Contents 9 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 10 0 R
+/F1-0 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:vinilnpg@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 209.4288 727.44 284.2728 738 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072vinilnpg\100gmail\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 209.4288 727.44 284.2728 738 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/vinilr)
->> /Border [ 0 0 0 ] /Rect [ 294.8328 727.44 393.1024 738 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057vinilr)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 294.8328 727.44 393.1024 738 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/vinil208)
->> /Border [ 0 0 0 ] /Rect [ 403.6624 727.44 475.2944 738 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057vinil208)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 403.6624 727.44 475.2944 738 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://vinil-portfolio.netlify.app)
->> /Border [ 0 0 0 ] /Rect [ 261.0232 717.1 350.9768 728.1 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057vinil208\056github\056io\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 261.0232 717.1 350.9768 728.1 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/Length 11917
 >>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 51 738 cm
+q
+BT
+1 0 0 1 0 2 Tm
+217.9465 0 Td
+24 TL
+/F2 22 Tf
+0 0 0 rg
+(V) Tj
+/F2 17 Tf
+(INIL) Tj
+/F2 22 Tf
+( R) Tj
+T*
+-217.9465 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 727 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+85.7056 0 Td
+11 TL
+/F3 8.8 Tf
+0 0 0 rg
+(\05391 90875 05296  ) Tj
+(\174) Tj
+(  ) Tj
+0.101961 0.247059 0.709804 rg
+(vinilnpg\100gmail\056com) Tj
+0 0 0 rg
+(  ) Tj
+(\174) Tj
+(  ) Tj
+0.101961 0.247059 0.709804 rg
+(www\056linkedin\056com\057in\057vinilr) Tj
+0 0 0 rg
+(  ) Tj
+(\174) Tj
+(  ) Tj
+0.101961 0.247059 0.709804 rg
+(github\056com\057vinil208) Tj
+T*
+-85.7056 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 716 cm
+q
+0.101961 0.247059 0.709804 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F3 8.8 Tf
+11 TL
+210.0232 0 Td
+T*
+-210.0232 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 698 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 12 Tf
+14 TL
+(Professional Summary) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 696.3 cm
+q
+0.7 w
+1 J
+0 0 0 RG
+n
+0 0 m
+510 0 l
+S
+Q
+Q
+q
+1 0 0 1 51 669.5 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 12.4 Tm
+0.5 0 Td
+10.9 TL
+/F3 9.4 Tf
+0 0 0 rg
+(Pre\055final\055year B\056Tech student in Artificial Intelligence \046 Data Science with a strong foundation in machine learning\054 NLP\054 and data) Tj
+T*
+-0.5 0 Td
+(analysis\054 focused on turning raw data into insights and building intelligent systems\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 647.1 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Built full\055stack and AI\055powered applications using Python\054 React\054 TypeScript\054 and Supabase\054 including an offline RAG chatbot and) Tj
+T*
+-0.5 0 Td
+(a multilingual legal\055tech assistant\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 635.6 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 1.5 Tm
+0.5 0 Td
+10.9 TL
+/F3 9.4 Tf
+0 0 0 rg
+(Currently in Generative AI at Zeno Talent\073 completed an AI \046 DS internship and the AMD Developer Hackathon\056) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 617.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 12 Tf
+14 TL
+(Experience) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 615.9 cm
+q
+0.7 w
+1 J
+0 0 0 RG
+n
+0 0 m
+510 0 l
+S
+Q
+Q
+q
+1 0 0 1 51 600 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F2 9.4 Tf
+10.9 TL
+(Zeno Talent \226 Generative AI Developer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F3 9.4 Tf
+10.9 TL
+74.5462 0 Td
+(June 2026 \226 Present) Tj
+T*
+-74.5462 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 589.1 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F4 9.4 Tf
+10.9 TL
+(Chennai\054 Tamil Nadu) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 10.9 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 567.3 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Working on Generative AI projects\054 including an agentic AI platform for real\055estate investment\054 brokerage\054 and) Tj
+T*
+-0.5 0 Td
+(property\055management workflows\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 544.9 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Conducting the initial research study\072 mapping workflows\054 comparing competing products\054 defining data needs\054 and proposing an) Tj
+T*
+-0.5 0 Td
+(MVP architecture and tech stack\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 533.4 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 1.5 Tm
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(Nxtlogic Software Solutions \226 AI \046 DS Intern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F3 9.4 Tf
+10.9 TL
+40.3396 0 Td
+(16 May 2026 \226 31 May 2026) Tj
+T*
+-40.3396 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 522.5 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F4 9.4 Tf
+10.9 TL
+(Performance\072 Very Good) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 10.9 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 511.6 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 1.5 Tm
+0.5 0 Td
+10.9 TL
+/F3 9.4 Tf
+0 0 0 rg
+(Completed an AI \046 Data Science internship at Nxtlogic Software Solutions\054 receiving a performance rating of Very Good\056) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 493.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 12 Tf
+14 TL
+(Projects) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 491.9 cm
+q
+0.7 w
+1 J
+0 0 0 RG
+n
+0 0 m
+510 0 l
+S
+Q
+Q
+q
+1 0 0 1 51 476 cm
+q
+BT
+1 0 0 1 0 1.5 Tm
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(NeuroDrip \226 AI\055Powered IV Monitoring \046 Automated Bottle Switching \174 ) Tj
+/F5 9.4 Tf
+(ESP32\054 IoT Sensors\054 AI\057ML\054 Web Application) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 465.1 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 1.5 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Developing an IoT kit \050ESP32\054 load cell\054 flow sensor\051 that measures IV fluid weight and flow and streams it to the cloud\056) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 442.7 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Building AI\055based prediction of IV completion time\054 abnormal\055flow detection\054 and priority ranking\054 with nurse\054 doctor\054 admin\054 and) Tj
+T*
+-0.5 0 Td
+(device\055manager dashboards and voice escalation of unacknowledged alerts\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 420.3 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 12.4 Tm
+0.5 0 Td
+10.9 TL
+/F3 9.4 Tf
+0 0 0 rg
+(Idea selected in ) Tj
+/F2 9.4 Tf
+(MSME Idea Hackathon 6\0560) Tj
+/F3 9.4 Tf
+( \050Ministry of MSME\054 Government of India\051\073 lab prototype \050TRL 4\051 includes a) Tj
+T*
+-0.5 0 Td
+(controlled two\055bottle switching mechanism\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 408.8 cm
+q
+BT
+1 0 0 1 0 1.5 Tm
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(DocBot \226 Terminal Document Q) Tj
+(\046) Tj
+(A Chatbot \174 ) Tj
+/F5 9.4 Tf
+(Python\054 Ollama \050llama3\0562\051\054 PyMuPDF\054 Rich\054 RAG) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 387 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Built an offline AI\055powered CLI chatbot using Retrieval\055Augmented Generation \050RAG\051 that loads PDF and TXT files and answers) Tj
+T*
+-0.5 0 Td
+(context\055aware questions with zero cloud dependency\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 364.6 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 12.4 Tm
+0.5 0 Td
+10.9 TL
+/F3 9.4 Tf
+0 0 0 rg
+(Implemented multi\055turn conversation memory \050up to 20 turns\051 with context injection into prompts\054 enabling coherent) Tj
+T*
+-0.5 0 Td
+(multi\055document Q) Tj
+(\046) Tj
+(A sessions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 342.2 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Engineered a modular REPL with a Rich\055styled terminal UI\073 chunked PDF text via PyMuPDF and streamed queries to a local) Tj
+T*
+-0.5 0 Td
+(llama3\0562 model\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 330.7 cm
+q
+BT
+1 0 0 1 0 1.5 Tm
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(LegalLens \226 AI Legal Assistant for India \174 ) Tj
+/F5 9.4 Tf
+(React 18\054 TypeScript\054 Vite\054 Tailwind CSS\054 Supabase\054 Gemini AI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 308.9 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Architected a production\055grade full\055stack legal\055tech platform delivering AI\055powered legal guidance in 6 Indian languages via) Tj
+T*
+-0.5 0 Td
+(Google Gemini AI\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 286.5 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Integrated the Web Speech API for real\055time voice\055to\055text input and built an RTI and legal document generator covering land) Tj
+T*
+-0.5 0 Td
+(disputes\054 domestic violence\054 FIR filing\054 and labour issues\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 264.1 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Implemented a Supabase \050PostgreSQL\051 backend for user data\054 session management\054 and legal resource indexing with Row\055Level) Tj
+T*
+-0.5 0 Td
+(Security \050RLS\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 252.6 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 1.5 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Delivered language\055aware multilingual prompting with Gemini and an accessible shadcn\057ui interface\056) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 241.1 cm
+q
+BT
+1 0 0 1 0 1.5 Tm
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(Salon Management System \174 ) Tj
+/F5 9.4 Tf
+(JavaScript\054 Python\054 Flask\054 MySQL\054 REST API) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 219.3 cm
+q
+BT
+1 0 0 1 2 12.4 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 12.4 Tm
+/F3 9.4 Tf
+10.9 TL
+0.5 0 Td
+(Built a full\055stack MVC web application for appointment booking\054 customer profiles\054 billing\054 and role\055based access\054 backed by a) Tj
+T*
+-0.5 0 Td
+(normalized MySQL schema\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 201.3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 12 Tf
+14 TL
+(Technical Skills) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 199.6 cm
+q
+0.7 w
+1 J
+0 0 0 RG
+n
+0 0 m
+510 0 l
+S
+Q
+Q
+q
+1 0 0 1 51 183.7 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 1.5 Tm
+0.5 0 Td
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(Web Development) Tj
+/F3 9.4 Tf
+(\072 HTML\054 CSS\054 React\054 Tailwind CSS\054 Vite\054 Flask\054 REST API) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 172.2 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 1.5 Tm
+0.5 0 Td
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(AI\057ML) Tj
+/F3 9.4 Tf
+(\072 Machine Learning\054 NLP\054 RAG\054 AI Prompt Engineering\054 Ollama) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 160.7 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 1.5 Tm
+0.5 0 Td
+10.9 TL
+/F2 9.4 Tf
+0 0 0 rg
+(Core) Tj
+/F3 9.4 Tf
+(\072 Problem Solving\054 Team Collaboration) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 51 142.7 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 12 Tf
+14 TL
+(Education) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 141 cm
+q
+0.7 w
+1 J
+0 0 0 RG
+n
+0 0 m
+510 0 l
+S
+Q
+Q
+q
+1 0 0 1 51 125.1 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F2 9.4 Tf
+10.9 TL
+(Dr\056 N\056G\056P\056 Institute of Technology\054 Coimbatore) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F3 9.4 Tf
+10.9 TL
+103 0 Td
+(2024 \226 2028) Tj
+T*
+-103 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 114.2 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 1.5 Tm
+10.9 TL
+/F4 9.4 Tf
+0 0 0 rg
+(B\056Tech \226 Artificial Intelligence \046 Data Science) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F4 9.4 Tf
+10.9 TL
+86.8132 0 Td
+(CGPA\072 7\05677 \057 10) Tj
+T*
+-86.8132 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 103.3 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F2 9.4 Tf
+10.9 TL
+(Sathyam International School\054 Tirupur) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 10.9 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 92.4 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F4 9.4 Tf
+10.9 TL
+(Higher Secondary Education \050CBSE\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 360 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 1.5 Tm
+/F4 9.4 Tf
+10.9 TL
+132.7698 0 Td
+(78\045) Tj
+T*
+-132.7698 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 51 74.4 cm
+q
+BT
+1 0 0 1 0 2 Tm
+14 TL
+/F2 12 Tf
+0 0 0 rg
+(Achievements \046 Activities) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51 72.7 cm
+q
+0.7 w
+1 J
+0 0 0 RG
+n
+0 0 m
+510 0 l
+S
+Q
+Q
+q
+1 0 0 1 51 56.8 cm
+q
+BT
+1 0 0 1 2 1.5 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 11 1.5 Tm
+0.5 0 Td
+10.9 TL
+/F3 9.4 Tf
+0 0 0 rg
+(Completed the ) Tj
+/F2 9.4 Tf
+(AMD Developer Hackathon) Tj
+/F3 9.4 Tf
+( \050LabLab\056ai\051\054 May 4\22610\054 2026\054 earning a Certificate of Completion\056) Tj
+T*
+-0.5 0 Td
+ET
+Q
+Q
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+258 716 96 12 re
+f*
+0 0 0 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 276.208 720 Tm
+(vinil208\056github\056io) Tj
+T*
+ET
+Q
+
+endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Times-BoldItalic /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 15 0 R /MediaBox [ 0 0 612 792 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/PageMode /UseNone /Pages 14 0 R /Type /Catalog
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 13 0 obj
 <<
-/Author (Vinil R) /CreationDate (D:20261014065808+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261014065808+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Vinil R - Resume) /Trapped /False
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 14 0 obj
 <<
-/Count 1 /Kids [ 11 0 R ] /Type /Pages
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 15 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3716
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gau`VgN)%.&q/)-oZKui3ta,CpWUfA[c;&Dc75,<ZaJm2LkI%48O>dr<\uZU^BXa1aVMkc-&KgE=Jg%#kWXF+6'kdMER"N47.bq#`ueQ,4ds[<m5Q,T?IJZAbo^lZ]Of]kIX?UbG_Xde3<6WYjLK\Of]dPKpG=#=F?fc_O_4l7R@e"U7pk-$oQTndgXk=&NBW=Sb@e9V&RCkRdsk9erjZ(WBDgOlPh3*BP[g":kW8ZC[qC'"Y$G%s#0u0+Z@3k+1i*WtR&B6ZHUMHH7t93!q4E]%EecfE*3Xu\LP2@VK3$#$E$o*,`iI(n((h4Rj3,Mcg!9*Z+kQ%f'8lRN#9q_$*fKgG9U!,6k_2jVCh<l/,C6IXM>06T.KOa?(@]3t<1_&=nFe+i\)k!0[V)MD&2mTF;0*T^l,6h\@_Qj7C:.O]]3VF;f,Nj1>2W=fXN(0Y9@jP3)CKRNdo=DUKf$oGLaAO"cK[uI:-/]S:MY@NCHgYK`LGM-LsSos`cr6sHUF^CB=3%_g@6BQMCl/":G6[6ei.K]DcVU(m<!L,ZEKJh$BQ/Ap--u5mFqFsiQ\pKDOVTj&pj"?\\Fq>AH@i,M3q$N-0E&\^ge'/*en.?A"V4GFN,#iM(d)FCD[[=FA-5XTXi;+J18:4LPV>4'JZKs1W1JD2!EEM\3VYU#`Vr3VQF=H7godZU`sY`,X4qI5T!((VDff;D>I[S-1P=l(/'p]iF\J`"5QG293%3o;T5E\WBJ9shf3"N%TSh'F!*OL:n1+fj7cZdU3RN/bu?FtenjM["><mK"T*uALVc!3VNdp'O5l4'b.'ahSGB0Ne'3bGr'[WNKm&W]fSlZ>!AOF*1U+*NjEr$6_mhn@+FhM_9Iel2l4>Ad67(!)Ol>q"^4;IsD&s*,JlTgj*n,;akuD/L)4kWt[d0\>q_UqY*.PKG-@!@:ScHGc%T&!2qB(bE9j*8f^C]UI'lp-ZNqN.Nm>3Qk,Yj\8A`-N\FM0`11OdA3\`*pD`%`up"O92UQ$=F'oq"oMk?fs3EO&cPh(GpV!>2_Cqb)9\7/(5B'at=+;kC;hd,pC4YbrGdlTI4u'&eK?D>,)5q4>Ls4&396.jE6A)*G`N@0pNd+N"nO.Za1-j)Pm,pX/::L'<!QF8S(Gpmj$_*&@V^B9<Ja'+;*LW(]]TF_L<YIM'J(L\lOaafT/&q9Vo=M>WqA.XaQj9[gTB9oG*!,U<u]6p_1b6#dI"iok?::D"L'BU6_DN4Rr,"&+Jq?uB`.N"C4L>kasM(,ZWa\it"R4.X7U?3e)@)$cS51btMnTU_5Ve_6*fP"5)f4+uPB9"-6neM*f>')bXViarGrTh!#0!J`/OO%c@/3=f",<]!i4[3nfPjjf\Pl%oQF"TgTkghAVLpp(sbFrS&@VAE5mcSdt3qsiXo<u&j]b\/3`C<a!4M$u0Z?k"%hJRE!i_=o(I:<R@\LUk8cJssD_RiOP)]B+YXl$H]N.EV/gAbcEVC!77XL($rE*IZngL+]81?GoI=ql8pi?P;_Jh-G#nW5b&?E(-CW46&$%g;67Hjtu>I[s1&689BURk6QoacDG_:fGV7ROqF8arg>pt*I3sl1W\1bq3p>KqMr;:Pm"9^6WQG!8Z$%:o[1=<8qd6aabS.q(A&F)'ngHZ_9r'hh"DXCP#Ih=30af1jCE@[FkNGFpl%tV]"/ZD?FMs[G`"@"UA9H>:pOggM=UG>pMqdWSVk[GOp0nkiBb0\Ei7E'o]@_l!j"3;/-Q]b)T[2kM1F/^VbDi69mcg>R2]d98f/@IQ&[/>.'lF5AB/cbX"Q[sIkpj#L82'r*N43*I$93"a0>;Cjm*.D6s:#C@dT+_dsr!K*O:@DW,.t;0K?IkT>n>eBf.>WS0^4m$D\2Z7*?\cnKD$In2oV#>Z;u)V!2nH=VB@lohOL>ii16j<ie'7&L1er%XG;*e.Y06e-h@ufD5^2m0*ZH;8A=fo+9P_`CRDZ)IDBR=-K\+1<mt#M0_oIDc[Eo"FIk7k("Um1`!Z,"13:XU,@g%T4/cGG4YDD$JA*'&LA0t??D]D,FZL-X\OPO=&fu_)66/[!122=2J8==dZQa;a:s@47.lAFFRA@=,^1S`E0b(F.8M-nGTf2nbQ^;dZJA=Mf*S#1l$3H5'tO@Z_iR:q!1;Y\a1HWOT^h.o)kVOld'`A0%@ub8mAE*lFiRLoKo)@pa6D]aXARW=a#-r>L%!s+-eUh=L/pag!406s_Ia24e#\oLJ2$CLrU6!5,37>N=I`iXoRN(nYH#]<*<.6N(1AJ^nbtau+tYI"/lk(E+9ja3f$`u/Wb'Bbo1r),3Du`Ge'rLsO<G74,djjF4HaZpS"jerakpm%>$D=Vc)u+Yi*=$$L:!4)pg:DV\H7iF/@:8POsdjJoG1IhF`>FO;d4@GkIPh,(Q`"O<mTe0/C`82-pjpJZ@oC,a-T6j;`e5?<?":[Kn',8oF%`[e+J&tN<[Qf_$WE_$,:-SMh?_]qA^>G(t##Yc,/6.,'[3#>.[cHR3+q#Qb)7%a`e@Ao7TkrqO^?k%4PA@PUT:h41JXer.<EpQS(\9(>/EHACB,0<F0Wp-88HeSj:,qRWY5:)6U5t4DT]M2AZZ-phgsnVeTDd.WAo"cBkSsK'Z0(>!S]7Rpf.>65q0'kn<=a<WTP+0F-YK$Uh95]39jV#/+qojmW?@F?U/(1j3&7C)&p8EK/>eGdK'`BT6Um;H(\L:-bjRQ%aZ#26Ni%o>%)%o#nni"H;Hc*:!$D8/!EVjgsLr,>Ikq5aJ+hnf%./FKL1MOagsY2Nq91,#&Xcl;7cS^ZpNi0(6-p_8,SNRAr]m-_E'.mk`TEf4b5Hb#0H^'l+M*9\Xkq@g?T+&jX:cBY_BOZBD*"CUn=hl9qHMjU(Z;US\Ws0./\sl`oc%02MORP&)$1e1R0d>qQ?L?&.(r=)L4r4f^/jq7]=;VWHp&"b(ih$!T3Q1S6leVt)ldKaBo&\L/rHnQg"TR1jWJ<lNM%Z9)*+F!3%uKIjfRd+&>$!WdR1R;1W\4Yq<W\jb[b8+(EdeX'41]!L5)1LoYD>N.=F/i+qnG3<M;!WaSC@#[otcqK*sf14i9o?>XSDSnLG\7eg/D:mWAr.u0n7nW_+O''*W\(h&(Vc7j3SSa<+L,?H[RVOE9mVl8ff<Zqhm\!jVl$nK">_QVPBTZ@`U-`S^-B[c\j&FWRN3"FF7dk%#X$:V4Iq[R/*pNA/#ga["G>krMf^Vsj^OCJ.IN>DL/p5Ro0GP>^eMOLUj!/d(X&>$DCtGR?i>%j%Y!B1QY-d&R/PVq2knNAF@WZXoT_CD"gQo"6icF:EI",?YF?An`>g;S`[p-iM>M6@$Thisf1Njm&Tn=%YOfl53Efm&#CuA;k6o-Eq%c9^ii&\en[<(d.>$f83*;Hmh,H5KUGOaY'S\dsjN`pk(mHe%irkaW=NumtobVqe)n,<KRIc-O\:RtgN:Ynt+l1aEZ9su]smC'$KYgol`6f6#T-;6!Mn6LCeApd3@14L`a#e(R@[`[mm"o+RfUnRP\CW33C`6h)[=@,GAnB*^uabEE^JG)-S5<6K(q`QJ1kN_^4.rWuAqLa96^#n0QFm%WM'L;%!TNf.Pkrs?Uo*!GG&QsnL<+!ro'>>,Pn6-^X01kn@eCa.ge6lYBE_n-fHNij?Y6e2D]J%qHru<A-h,[nVFu5DmXbOCZD,;;$TkdH7AJ\r]q6[fY31N^iS,WSG"=,5~>endstream
 endobj
 xref
 0 16
 0000000000 65535 f 
-0000000061 00000 n 
-0000000133 00000 n 
-0000000240 00000 n 
-0000000348 00000 n 
-0000000457 00000 n 
-0000000627 00000 n 
-0000000806 00000 n 
-0000000978 00000 n 
-0000001159 00000 n 
-0000001269 00000 n 
-0000001384 00000 n 
-0000001616 00000 n 
-0000001686 00000 n 
-0000001964 00000 n 
-0000002025 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000455 00000 n 
+0000000634 00000 n 
+0000000834 00000 n 
+0000001021 00000 n 
+0000001212 00000 n 
+0000013182 00000 n 
+0000013290 00000 n 
+0000013398 00000 n 
+0000013507 00000 n 
+0000013617 00000 n 
+0000013728 00000 n 
 trailer
 <<
-/ID 
-[<02640f82af7bbf27e148b08838558cba><02640f82af7bbf27e148b08838558cba>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 13 0 R
-/Root 12 0 R
 /Size 16
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-5833
+13843
 %%EOF
